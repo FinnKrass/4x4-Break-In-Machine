@@ -8,6 +8,7 @@ Prints:
   - 1* 4 x 4 Machine Housing - best suited to pla+ or petg, a prototype I did in standard pla had multiple failures
   - 2* 4 x 4 Actuation Plate - any material really, I did pla+ and that worked without a single issue
   - 1* Scotch Yoke - I made this better suited for FDM printing by widening the hole for the motor stem
+
 Items: I would say purchase extra of each for backup
   - 2* 6mm x 150mm smooth rod (example https://www.makerstore.com.au/product/hard-rod-6/ )
   - 4* 6mm Linear bearings (example https://www.makerstore.com.au/product/bear-lm6uu/ )
