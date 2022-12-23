@@ -14,9 +14,13 @@ Items: I would say purchase extra of each for backup
   - 2* 0306 needle bearing (example https://appliedau.com.au/product-details/bearings/roller-bearings/needle-roller-bearings/hk-0306-tn/9e46f232-d7c0-11ea-9e6c-567e73c68856)
   - 1* 1:48 TT Geared Motor 3-6v (example https://core-electronics.com.au/dc-gearbox-motor-tt-motor-200rpm-3-to-6vdc.html)
   
-Print settings I did all of mine with 0.2mm layer height and that worked well for both strength and tolerances 
+Print settings I did all of mine with 0.2mm layer height and that worked well for both strength and tolerances.
+
 I bought about 10 motors as this means you are able to run for longer periods of time with more motors available in the case that they break, you can find them for a few dollars.
-It is still good to care for the motor and give it breaks as a) don't want anyone burning their house down and b) waste of motor that would be fine with better care
-Furthermore I used a power supply unit which allows me to control the voltage of the machine, at around 7.5-8v I was getting 450 rpm based off counting audio peaks 
+
+It is still good to care for the motor and give it breaks as a) don't want anyone burning their house down and b) waste of motor that would be fine with better care.
+Furthermore I used a power supply unit which allows me to control the voltage of the machine, at around 7.5-8v I was getting 450 rpm based off counting audio peaks.
+
 I would implore others to use this as a base of reference as I had a blast working on designing this myself, but for those who don't want to do that then use this however!!
+
 Any questions shoot me a dm on discord @ Finn#0381
