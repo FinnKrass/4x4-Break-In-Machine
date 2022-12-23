@@ -10,14 +10,15 @@ Prints:
   - 1* 4 x 4 Machine Housing - best suited to pla+ or petg, a prototype I did in standard pla had multiple failures
   - 2* 4 x 4 Actuation Plate - any material really, I did pla+ and that worked without a single issue
   - 1* Scotch Yoke - I made this better suited for FDM printing by widening the hole for the motor stem
-
+  - 2* Switch plates
+  
 Items: I would say purchase extra of each for backup
   - 2* 6mm x 150mm smooth rod (example https://www.makerstore.com.au/product/hard-rod-6/ )
   - 4* 6mm Linear bearings (example https://www.makerstore.com.au/product/bear-lm6uu/ )
   - 2* 0306 needle bearing (example https://appliedau.com.au/product-details/bearings/roller-bearings/needle-roller-bearings/hk-0306-tn/9e46f232-d7c0-11ea-9e6c-567e73c68856)
   - 1* 1:48 TT Geared Motor 3-6v, get good quality as I had 4 cheap ones die within an hour of use(example https://core-electronics.com.au/dc-gearbox-motor-tt-motor-200rpm-3-to-6vdc.html)
   - 1* M3x6 Screw
-  - 2* M3x20 Screw 
+  - 2* M3x20 Screw
   - 2* M3x10 Screw
   - 2* M3x14 Screw
 
@@ -30,10 +31,10 @@ Furthermore I used a power supply unit which allows me to control the voltage of
 
 I would implore others to use this as a base of reference as I had a blast working on designing this myself, but for those who don't want to do that then use this however!!
 
-Assembly is pretty straight forward. 
-  - Place the scotch yoke on the motor, screw it into place with the M3x6 screw and then attach the 0306 bearings on either end with M3x10 screws 
-  - Secure the motor to the housing with 2 M3x20 and 1 M3x14 
-  - Insert the 6mm Linear bearings into the plates, I used a small hammer and tapped them lightly to ensure they were snug and fully in. 
+Assembly is pretty straight forward.
+  - Place the scotch yoke on the motor, screw it into place with the M3x6 screw and then attach the 0306 bearings on either end with M3x10 screws
+  - Secure the motor to the housing with 2 M3x20 and 1 M3x14
+  - Insert the 6mm Linear bearings into the plates, I used a small hammer and tapped them lightly to ensure they were snug and fully in.
   - Insert smooth rod 1/3 into the guide holes on each side then place the first plate on, push the rod in 2/3 and insert the second plate, then push the rod the full way. I used a hammer to lightly tap the rods in.
 
 
