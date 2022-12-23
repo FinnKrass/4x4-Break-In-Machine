@@ -3,7 +3,9 @@ My rendition of some of the break in machines that are available.
 
 This is basically a higher capacity break in machine than that of keekeens (I would highly recommend checking his out https://github.com/keekeen/MX-Switch-Break-In-Machine) using some of the ideas from FengStudios 4 x 4 machine.
 I want to emphasise that this has a lot of compensation for print tolerances, and any of the holes for bearings etc could differ for you depending on your machine so please take this into account.
+
 Here is the BoM:
+
 Prints:
   - 1* 4 x 4 Machine Housing - best suited to pla+ or petg, a prototype I did in standard pla had multiple failures
   - 2* 4 x 4 Actuation Plate - any material really, I did pla+ and that worked without a single issue
