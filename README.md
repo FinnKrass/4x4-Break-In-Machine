@@ -15,7 +15,7 @@ Items: I would say purchase extra of each for backup
   - 2* 6mm x 150mm smooth rod (example https://www.makerstore.com.au/product/hard-rod-6/ )
   - 4* 6mm Linear bearings (example https://www.makerstore.com.au/product/bear-lm6uu/ )
   - 2* 0306 needle bearing (example https://appliedau.com.au/product-details/bearings/roller-bearings/needle-roller-bearings/hk-0306-tn/9e46f232-d7c0-11ea-9e6c-567e73c68856)
-  - 1* 1:48 TT Geared Motor 3-6v (example https://core-electronics.com.au/dc-gearbox-motor-tt-motor-200rpm-3-to-6vdc.html)
+  - 1* 1:48 TT Geared Motor 3-6v, get good quality as I had 4 cheap ones die within an hour of use(example https://core-electronics.com.au/dc-gearbox-motor-tt-motor-200rpm-3-to-6vdc.html)
   - 1* M3x6 Screw
   - 2* M3x20 Screw 
   - 2* M3x10 Screw
