@@ -20,6 +20,7 @@ Items: I would say purchase extra of each for backup
   - 2* M3x20 Screw 
   - 2* M3x10 Screw
   - 2* M3x14 Screw
+
 Print settings I did all of mine with 0.2mm layer height and that worked well for both strength and tolerances.
 
 I bought about 10 motors as this means you are able to run for longer periods of time with more motors available in the case that they break, you can find them for a few dollars.
