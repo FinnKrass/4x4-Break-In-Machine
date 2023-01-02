@@ -21,11 +21,11 @@ Items: I recommend buying extras of all
   - 2* M3x14 Screw
 
 I just printed a more final version of the machine at .15 and .1 layer height depending on the required strength for the part and that has been the best performing one I have made so far.
--------------
+
 I used a power supply unit which allows me to control the voltage of the machine, I saw the thing get up to a maximum speed of 650rpm but I wouldn't do that or you'll burn the motor out in under an hour, I did so just to see how long it could run.
--------------
+
 I would implore others to use this as a base of reference, this is so so far from a completed and thorough/reliable design. It definitely works, and it works well at that, but it isn't end user friendly at all which was not the intention of this project!!
--------------
+
 Assembly is pretty straight forward.
   - Place the scotch yoke on the motor, screw it into place with the M3x6 screw and then attach the 0306 bearings on either end with M3x10 screws
   - Secure the motor to the housing with 2 M3x20 and 1 M3x14
