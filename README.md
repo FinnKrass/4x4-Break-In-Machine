@@ -2,6 +2,8 @@
 
 This was just sorta a project that I took on for fun, I don't think that this is perfect by any stretch of the word but it is functional and it does break the switches in. There's a heap that I wanted to add to this (caps to go over the linear bearings to secure them, off center actuation mechanism, better motor compatibility so that there was no need for the shitty ones that keep burning out), but it's taken up so much time already, and printing parts to test out a new feature can take 45 hours, so I'm gonna take a break and probably come back and start fresh with something along the lines of what flehrad designed. My point being, this is here so that people can use it as a base for future stuff, or just for people to print a basic machine that works out of the gate, it probably won't be updated very much though. 
 
+[snapshot]: /Images/IMG_9655 "Machine Snapshot"
+
 Here is the BoM:
 
 Prints:
