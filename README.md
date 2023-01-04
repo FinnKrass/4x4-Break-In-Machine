@@ -1,15 +1,15 @@
 # Break-In-Machine-Finn
-My rendition of some of the break in machines that are available.
 
-This is basically a higher capacity break in machine than that of keekeens (I would highly recommend checking his out https://github.com/keekeen/MX-Switch-Break-In-Machine) using some of the ideas from FengStudios 4 x 4 machine.
-I want to emphasise that this has a lot of compensation for print tolerances, and any of the holes for bearings etc could differ for you depending on your machine so please take this into account.
+This was just sorta a project that I took on for fun, I don't think that this is perfect by any stretch of the word but it is functional and it does break the switches in. There's a heap that I wanted to add to this (caps to go over the linear bearings to secure them, off center actuation mechanism, better motor compatibility so that there was no need for the shitty ones that keep burning out), but it's taken up so much time already, and printing parts to test out a new feature can take 45 hours, so I'm gonna take a break and probably come back and start fresh with something along the lines of what flehrad designed. My point being, this is here so that people can use it as a base for future stuff, or just for people to print a basic machine that works out of the gate, it probably won't be updated very much though. 
+
+[snapshot]: /Images/IMG_9655 
 
 Here is the BoM:
 
 Prints:
   - 1* Machine Housing - best suited to pla+ or petg, a prototype I did in standard pla was pretty flimsy
-  - 2* Actuation Plate - any material really, I did pla+ and that worked without a single issue
-  - 1* Scotch Yoke - I personally printed 30 of these since they kept breaking. Then I decided to print at 0.1 layer height and now the motor seems like it runs better and there hasn't been a single break.
+  - 2* Actuation Plates - any material really, I did pla+ and that worked without a single issue
+  - 1* Scotch Yoke - I personally printed 30 of these since they kept breaking even when printed with petg. Then I decided to print at 0.1 layer height and now the motor seems like it runs better and there hasn't been a single failure.
   - 2* Switch plates - Would say print these in whatever, use lightning infill at a higher percent if you really want to speed these up.
 
 Items: I recommend buying extras of all
@@ -22,11 +22,11 @@ Items: I recommend buying extras of all
   - 2* M3x10 Screw
   - 2* M3x14 Screw
 
-I now just printed a more final version of the machine at .15 and .1 layer height depending on the required strength for the part.
+I just printed a more final version of the machine at .15 and .1 layer height depending on the required strength for the part and that has been the best performing one I have made so far.
 
-I used a power supply unit which allows me to control the voltage of the machine, at around 7.5-8v I was getting 450 rpm based off counting audio peaks and between 120 and 250 when at 6v depending on which motor.
+I used a power supply unit which allows me to control the voltage of the machine, I saw the thing get up to a maximum speed of 650rpm but I wouldn't do that or you'll burn the motor out in under an hour, I did so just to see how long it could run.
 
-I would implore others to use this as a base of reference, this is so far from a complete and thorough/reliable design. It definitely works, and it works well at that, but it isn't end user friendly at all which was not the intention of this project!!
+I would implore others to use this as a base of reference, this is so so far from a completed and thorough/reliable design. It definitely works, and it works well at that, but it isn't end user friendly at all which was not the intention of this project!!
 
 Assembly is pretty straight forward.
   - Place the scotch yoke on the motor, screw it into place with the M3x6 screw and then attach the 0306 bearings on either end with M3x10 screws
